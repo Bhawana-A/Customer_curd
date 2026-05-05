@@ -19,7 +19,7 @@ import lombok.AllArgsConstructor;
 
 @RestController
 @AllArgsConstructor
-@RequestMapping("deploy")
+@RequestMapping("/deploy")
 public class CustomerController {
 	
 	@Autowired
