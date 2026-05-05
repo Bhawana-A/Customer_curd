@@ -1,0 +1,5 @@
+com\delopyProject\DepolyProjectApplication.class
+com\delopyProject\repo\Customer_OrderRepo.class
+com\delopyProject\service\CustomerServices.class
+com\delopyProject\controller\CustomerController.class
+com\delopyProject\entity\Customer_Order.class
